@@ -7,7 +7,7 @@ email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
-# Team names, titles and social links
+# Founder names, titles and social links
 people:
 - name: Kay Garland
   pic: 1
@@ -41,6 +41,57 @@ people:
       url: #
     - title: google-plus
       url: #
+      
+# Members
+member:
+- name: James Stigler
+  pic: Jim
+  position: Principle Investigater 
+  Email:
+  Intro: My research focuses on understanding processes of teaching and learning, especially of mathematics and science, from kindergarten through college. I am also interested in re-thinking the role of research and development in education, and in particular, how researchers can work with designer/developers and practitioners to build and improve education interventions.
+  
+- name: Karen Givvin
+  pic: Karen
+  position:  
+  Email:
+  Intro: 
+  
+- name: Ji Son
+  pic: Ji
+  position:  
+  Email:
+  Intro: 
+
+- name: Adam Blake
+  pic: Adam
+  position:  Post-doc
+  Email:
+  Intro: 
+  
+- name: Laura Fries
+  pic: Laura
+  position:  Grad Student
+  Email:
+  Intro: 
+  
+- name: Mary Tucker
+  pic: Mary
+  position: Grad Student
+  Email:
+  Intro: 
+  
+- name: Stacy Shaw
+  pic: Stacy
+  position: Grad Student
+  Email: stacy.tamsen.shaw@gmail.com
+  Intro: Stacy is largely interested in creative thinking in STEM, with an emphasis on how students make connections across concepts, and how affective factors (e.g., math anxiety) impact students' ability to think flexibly about concepts. Currently, she is researching how students reach mathematical insights in their everyday lives, with the aim of understanding how deep immersive periods of conscious work may affect later Aha! moments. In her work with the Better Book project, she is interested in how individual and group differences relate to student engagement, and how opportunities to make connections across statistical concepts fosters learning. 
+  
+- name: Icy (Yunyi) Zhang
+  pic: Icy
+  position: Lab Assitant
+  Email:
+  Intro: 
+  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
