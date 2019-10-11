@@ -46,39 +46,39 @@ people:
 member:
 - name: James Stigler
   pic: Jim
-  position: Principle Investigater 
-  Email:
+  position: Professor 
+  Email: stigler@psych.ucla.edu
   Intro: My research focuses on understanding processes of teaching and learning, especially of mathematics and science, from kindergarten through college. I am also interested in re-thinking the role of research and development in education, and in particular, how researchers can work with designer/developers and practitioners to build and improve education interventions.
   
 - name: Karen Givvin
   pic: Karen
-  position:  
-  Email:
-  Intro: 
+  position: Researcher and Adjunt Professor 
+  Email: karen.givvin@ucla.edu
+  Intro: Research interests include teaching, learning, and motivation in achievement domains.
   
 - name: Ji Son
   pic: Ji
-  position:  
-  Email:
-  Intro: 
+  position: Professor (California Stete University)
+  Email: jiyunson@gmail.com
+  Intro: I'm interested in how basic cognitive and perceptual processes foster rich and transferable learning.
 
 - name: Adam Blake
   pic: Adam
   position:  Post-doc
   Email:
-  Intro: 
+  Intro: I'm interested in the factors that influence students' judgments, decisions, and strategies about learning, and how instruction and learning materials can improve these behaviors.
   
 - name: Laura Fries
   pic: Laura
   position:  Grad Student
   Email:
-  Intro: 
+  Intro: Research interests include pedagogical strategies to promote deep understanding, and the cognitive and affective factors that influence learning.
   
 - name: Mary Tucker
   pic: Mary
   position: Grad Student
   Email:
-  Intro: 
+  Intro: Research interests include psychological, social, and contextual factors that influence teaching and learning; design of environments to support learning and participation in STEM domains; and the application of technology and data analytics to understand and improve teaching and learning. 
   
 - name: Stacy Shaw
   pic: Stacy
@@ -89,8 +89,23 @@ member:
 - name: Icy (Yunyi) Zhang
   pic: Icy
   position: Lab Assitant
-  Email:
-  Intro: 
+  Email: zhang_yunyi@outlook.com
+  Intro: I’m interested in teaching and learning in general. My work in my undergraduate years has been focused the effect of gesture on students’ learning of abstract concepts such as statistics from instructional videos. The reason for conducting those work is that I’m passionate about developing efficient instructive method to better engage students in online teaching materials. I’m now working in the lab as a full-time lab assistant, conducting research as well as helping the development of the Better Book project.
+  
+  
+  
+# list all the papers
+Paper:
+ - name: Removing opportunities to calculate improves students’ performance on subsequent word problems
+   authors: Karen B. Givvin, Veronika Moroz, William Loftus and James W. Stigler
+   year: 2019
+   path: img/pdfs/Givvin_et_al-2019-Cognitive_Research__Principles_and_Implications.pdf
+   
+ - name: The ​Better Book​ Approach for Education Research and Development
+   authors: James W. Stigler, Ji Y. Son, Karen B. Givvin, Adam Blake, Laura Fries, Stacy T. Shaw, Mary C. Tucker
+   year: 2019
+   path: img/pdfs/The “Better Book” Model for Education R&D PREPRINT.pdf
+
   
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
