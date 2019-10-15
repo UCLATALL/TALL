@@ -1,112 +1,85 @@
-url: https://y7kim.github.io
-baseurl: /TALL/
+# url: https://uclatall.github.io
+# baseurl: /TALL
 
 # Site settings
 title: UCLA Teaching and Learning Lab
-email: your-email@domain.com
+email: ucla.tall@gmail.com
 description: "We are interested in teaching and learning. We are both teachers and learners."
 
 
-# Founder names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-      
 # Members
-member:
-- name: James Stigler
-  pic: Jim
-  position: Professor 
-  Email: stigler@psych.ucla.edu
-  Intro: Research interests include teaching and learning in complex domains, impacts of culture and technology on learning, and applications of improvement science to education.
-    
-- name: Karen Givvin
-  pic: Karen
-  position: Researcher and Adjunt Professor 
-  Email: karen.givvin@ucla.edu
-  Intro: Research interests include teaching, learning, and motivation in achievement domains.
-  
-- name: Ji Son
-  pic: Ji
-  position: Professor (California State University)
-  Email: jiyunson@gmail.com
-  Intro: I'm interested in how basic cognitive and perceptual processes foster rich and transferable learning.
+members:
+  - name: James Stigler
+    pic: Jim.jpg
+    position: Professor
+    email: stigler@psych.ucla.edu
+    intro: Research interests include teaching and learning in complex domains, impacts of culture and technology on learning, and applications of improvement science to education.
 
-- name: Adam Blake
-  pic: Adam
-  position:  Post-doc
-  Email: adamblake@ucla.edu
-  Intro: I'm interested in the factors that influence students' judgments, decisions, and strategies about learning, and how instruction and learning materials can improve these behaviors.
-  
-- name: Laura Fries
-  pic: Laura
-  position:  Grad Student
-  Email:
-  Intro: Research interests include pedagogical strategies to promote deep understanding, and the cognitive and affective factors that influence learning.
-  
-- name: Mary Tucker
-  pic: Mary
-  position: Grad Student
-  Email:
-  Intro: Research interests include psychological, social, and contextual factors that influence teaching and learning; design of environments to support learning and participation in STEM domains; and the application of technology and data analytics to understand and improve teaching and learning. 
-  
-- name: Stacy Shaw
-  pic: Stacy
-  position: Grad Student
-  Email: stacy.tamsen.shaw@gmail.com
-  Intro: Stacy is largely interested in creative thinking in STEM, with an emphasis on how students make connections across concepts, and how affective factors (e.g., math anxiety) impact students' ability to think flexibly about concepts. Currently, she is researching how students reach mathematical insights in their everyday lives, with the aim of understanding how deep immersive periods of conscious work may affect later Aha! moments. In her work with the Better Book project, she is interested in how individual and group differences relate to student engagement, and how opportunities to make connections across statistical concepts fosters learning. 
-  
-- name: Icy (Yunyi) Zhang
-  pic: Icy
-  position: Lab Assitant
-  Email: zhang_yunyi@outlook.com
-  Intro: I’m interested in teaching and learning in general. My work in my undergraduate years has been focused on the effect of gesture on students’ learning of abstract concepts such as statistics from instructional videos. The reason for conducting those work is that I’m passionate about developing efficient instructive method to better engage students in online teaching materials. I’m now working in the lab as a full-time lab assistant, conducting research as well as helping the development of the Better Book project.
-  
-  
-  
-# list all the papers
-Paper:
- - name: Removing opportunities to calculate improves students’ performance on subsequent word problems
-   authors: Karen B. Givvin, Veronika Moroz, William Loftus and James W. Stigler
-   year: 2019
-   path: img/pdfs/Givvin_et_al-2019-Cognitive_Research__Principles_and_Implications.pdf
-   
- - name: The ​Better Book​ Approach for Education Research and Development
-   authors: James W. Stigler, Ji Y. Son, Karen B. Givvin, Adam Blake, Laura Fries, Stacy T. Shaw, Mary C. Tucker
-   year: 2019
-   path: img/pdfs/The “Better Book” Approach for Education R&D PREPRINT.pdf
+  - name: Karen Givvin
+    pic: Karen.jpg
+    position: Researcher and Adjunt Professor
+    email: karen.givvin@ucla.edu
+    intro: Research interests include teaching, learning, and motivation in achievement domains.
 
-  
+  - name: Ji Son
+    pic: Ji.jpg
+    position: Professor (California State University)
+    email: jiyunson@gmail.com
+    intro: I'm interested in how basic cognitive and perceptual processes foster rich and transferable learning.
+
+  - name: Adam Blake
+    pic: Adam.jpg
+    position:  Post-doc
+    email: adamblake@ucla.edu
+    intro: I'm interested in the factors that influence students' judgments, decisions, and strategies about learning, and how instruction and learning materials can improve these behaviors.
+
+  - name: Laura Fries
+    pic: Laura.jpg
+    position:  Grad Student
+    email:
+    intro: Research interests include pedagogical strategies to promote deep understanding, and the cognitive and affective factors that influence learning.
+
+  - name: Mary Tucker
+    pic: Mary.jpg
+    position: Grad Student
+    email:
+    intro: Research interests include psychological, social, and contextual factors that influence teaching and learning; design of environments to support learning and participation in STEM domains; and the application of technology and data analytics to understand and improve teaching and learning.
+
+  - name: Stacy Shaw
+    pic: Stacy.jpg
+    position: Grad Student
+    email: stacy.tamsen.shaw@gmail.com
+    intro: Stacy is largely interested in creative thinking in STEM, with an emphasis on how students make connections across concepts, and how affective factors (e.g., math anxiety) impact students' ability to think flexibly about concepts. Currently, she is researching how students reach mathematical insights in their everyday lives, with the aim of understanding how deep immersive periods of conscious work may affect later Aha! moments. In her work with the Better Book project, she is interested in how individual and group differences relate to student engagement, and how opportunities to make connections across statistical concepts fosters learning.
+
+  - name: Icy (Yunyi) Zhang
+    pic: Icy.jpg
+    position: Lab Assistant
+    email: zhang_yunyi@outlook.com
+    intro: I’m interested in teaching and learning in general. My work in my undergraduate years has been focused on the effect of gesture on students’ learning of abstract concepts such as statistics from instructional videos. The reason for conducting those work is that I’m passionate about developing efficient instructive method to better engage students in online teaching materials. I’m now working in the lab as a full-time lab assistant, conducting research as well as helping the development of the Better Book project.
+
+
+
+# Papers in publication
+# the doi field is optional
+# papers should be placed in the pdfs folder
+papers:
+  - name: Removing opportunities to calculate improves students’ performance on subsequent word problems
+    authors: Karen B. Givvin, Veronika Moroz, William Loftus, & James W. Stigler
+    journal: "Cognitive Research: Principles and Implications"
+    year: 2019
+    doi: 10.1186/s41235-019-0175-2
+    filename: Givvin_et_al-2019-Cognitive_Research__Principles_and_Implications.pdf
+
+  - name: The ​Better Book​ Approach for Education Research and Development
+    authors: James W. Stigler, Ji Y. Son, Karen B. Givvin, Adam Blake, Laura Fries, Stacy T. Shaw, & Mary C. Tucker
+    journal: PREPRINT
+    year: 2019
+    filename: The “Better Book” Approach for Education R&D PREPRINT.pdf
+
+
+
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -116,7 +89,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll

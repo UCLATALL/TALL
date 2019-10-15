@@ -1,5 +1,5 @@
 <!-- Portfolio Grid Section -->
-    <section id="portfolio" class="bg-light-gray">
+    <section id="papers" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -8,8 +8,10 @@
                 </div>
             </div>
             <div class="row">
-            {% for Paper in site.Paper %}
-				<li><a href="{{Paper.path}}">{{ Paper.authors}} ({{ Paper.year }}). {{ Paper.name }}</a></li>
+            {% for paper in site.papers %}
+				<li>{{ paper.authors }} ({{ paper.year }}). {{ paper.name }}. {{ paper.journal }}.
+                    {% if paper.doi %}doi: <a href="dx.doi.org/{{ paper.doi }}">{{ paper.doi }}</a>.{% endif %}
+                    <a href="{{ paper.filename | prepend: "pdfs/" | relative_url }}">Download a copy.</a></li>
             {% endfor %}
             </div>
         </div>

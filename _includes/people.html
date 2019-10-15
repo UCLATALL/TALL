@@ -1,0 +1,25 @@
+<!-- People Section -->
+    <section id="people">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">People</h2>
+                    <h3 class="section-subheading text-muted">Meet the people in our lab.</h3>
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.members %}
+                <div class="col-sm-4">
+                    <div class="service-heading">
+                        <img src="{{ member.pic | prepend: "img/team/" }}" class="img-responsive img-circle" alt="Picture of {{ member.name }}">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}
+                          <br><a href="mailto:{{ member.email }}">{{ member.email }}</a>
+                          <br>{{member.intro}}</p>
+                        <!-- <ul class="list-inline social-buttons"></ul> -->
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
