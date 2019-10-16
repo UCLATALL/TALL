@@ -78,7 +78,16 @@ papers:
     filename: The “Better Book” Approach for Education R&D PREPRINT.pdf
 
 
-
+# Funders of our projects
+funders:
+  - name: Chan Zuckerberg Initiative DAF
+    pic: Chan.jpg
+    
+  - name: Silicon Valley Community Foundation
+    pic: SVC.jpg
+    
+  - name: California Governor’s Office of Planning and Research
+    pic: Cali_Cov.jpg
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
