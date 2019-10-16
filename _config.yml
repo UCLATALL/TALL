@@ -32,18 +32,18 @@ members:
     pic: Adam.jpg
     position:  Post-doc
     email: adamblake@ucla.edu
-    intro: I'm interested in the factors that influence students' judgments, decisions, and strategies about learning, and how instruction and learning materials can improve these behaviors.
+    intro: I'm interested in the factors that influence students' judgments, decisions, and strategies about learning, and how instruction and learning materials can improve these behaviors. 
 
   - name: Laura Fries
     pic: Laura.jpg
     position:  Grad Student
-    email:
+    email: lauracfries@gmail.com
     intro: Research interests include pedagogical strategies to promote deep understanding, and the cognitive and affective factors that influence learning.
 
   - name: Mary Tucker
     pic: Mary.jpg
     position: Grad Student
-    email:
+    email: maryctucker@ucla.edu
     intro: Research interests include psychological, social, and contextual factors that influence teaching and learning; design of environments to support learning and participation in STEM domains; and the application of technology and data analytics to understand and improve teaching and learning.
 
   - name: Stacy Shaw
@@ -83,8 +83,6 @@ funders:
   - name: Chan Zuckerberg Initiative DAF
     pic: Chan.jpg
     
-  - name: Silicon Valley Community Foundation
-    pic: SVC.jpg
     
   - name: California Governor’s Office of Planning and Research
     pic: Cali_Cov.jpg
