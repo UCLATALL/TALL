@@ -12,19 +12,18 @@ description: "We are interested in teaching and learning. We are both teachers a
 members:
   - name: James Stigler
     pic: Jim.jpg
-    position: Professor <br><a href="https://www.psych.ucla.edu/faculty/page/stigler">https://www.psych.ucla.edu/faculty/page /stigler</a>
+    position: Professor
     email: stigler@psych.ucla.edu 
     intro: I'm interested in teaching and learning in complex domains, impacts of culture and technology on learning, and applications of improvement science to education.
 
   - name: Karen Givvin
     pic: Karen.jpg
-    position: Researcher and Adjunt Professor <br><a href="https://www.psych.ucla.edu/faculty/page/kbgivvin">https://www.psych.ucla.edu/faculty/ page/kbgivvin</a>
-    email: karen.givvin@ucla.edu 
+    position: Researcher and Adjunt Professor
     intro: Research interests include teaching, learning, and motivation in achievement domains. <br><br><br>
 
   - name: Ji Son
     pic: Ji.jpg
-    position: Professor (California State University) <br><a href="http://www.calstatela.edu/faculty/ji-son">http://www.calstatela.edu/faculty/ji-son</a>
+    position: Professor (California State University)
     email: jiyunson@gmail.com
     intro: I'm interested in how basic cognitive and perceptual processes foster rich and transferable learning. <br><br><br>
     
