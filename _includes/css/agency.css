@@ -865,3 +865,27 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+
+section#people {
+    background-color: #fff;
+    background-image: url('{{ site.baseurl }}/img/background_people.png');
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+section#papers {
+    background-color: #fff;
+    background-image: url('{{ site.baseurl }}/img/background_paper.png');
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+section#projects {
+    background-color: #fff;
+    background-image: url('{{ site.baseurl }}/img/background_project.png');
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+

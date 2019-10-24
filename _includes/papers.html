@@ -8,6 +8,8 @@
                 </div>
             </div>
             <div class="row">
+            <br>
+            <br>
             {% for paper in site.papers %}
 				<li>{{ paper.authors }} ({{ paper.year }}). {{ paper.name }}. {{ paper.journal }}.
                     {% if paper.doi %}doi: <a href="dx.doi.org/{{ paper.doi }}">{{ paper.doi }}</a>.{% endif %}
