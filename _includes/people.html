@@ -11,7 +11,7 @@
                 {% for member in site.members %}
                 <div class="col-md-4">
                     <div class="service-heading">
-                        <img src="{{ member.pic | prepend: "img/team/" }}" class="img-responsive img-circle" " alt="Picture of {{ member.name }}"> 
+                        <img src="{{ member.pic | prepend: "img/team/" }}" class="img-responsive img-square" " alt="Picture of {{ member.name }}"> 
                         <h4>{{ member.name }}</h4>
                           <a href="mailto:{{ member.email }}"style="color:rgb(99,39,26);">{{ member.email }}</a>
                           <br>{{member.intro}}</p>
