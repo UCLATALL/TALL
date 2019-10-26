@@ -893,3 +893,26 @@ section#projects {
 p{
     text-indent:2em;   
 }
+
+clear {
+    clear:both;
+}
+.photo2{
+    float:left;
+    width:50%;
+}
+.intro2{
+    float:right;
+    width:50%;
+}
+ 
+ 
+ 
+ .photo1{
+    float:right;
+    width:50%;
+}
+.intro1{
+    float:left;
+    width:50%;
+}
