@@ -36,7 +36,12 @@ a.active {
 }
 
 a {
-    color: #{{ site.data.template.color.primary }};
+    color: #566D7E;
+}
+
+
+a:link {
+  text-decoration: underline;
 }
 
 a:hover,
@@ -903,7 +908,7 @@ clear {
 }
 .intro2{
     float:right;
-    width:50%;
+    width:45%;
 }
  
  
@@ -914,5 +919,5 @@ clear {
 }
 .intro1{
     float:left;
-    width:50%;
+    width:45%;
 }
