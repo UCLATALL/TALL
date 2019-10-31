@@ -9,9 +9,9 @@
             </div>
             <div class="row">
                 {% for funders in site.funders %}
-                <div class="col-sm-4">
+                <div class="col-sm-6 center">
                     <div class="funders">
-                        <img src="{{ funders.pic | prepend: "img/funders/" }}" width="200" height="200" hspace="20"/ class="img-responsive" alt="" >
+                        <center><img src="{{ funders.pic | prepend: "img/funders/" }}" width="200" height="200" hspace="20"/ class="img-responsive" alt="" >
                         <h4>{{ funders.name }}</h4>
                         <p class="text-muted">{{ funders.year }}</p>
                             {% for network in member.social %}
