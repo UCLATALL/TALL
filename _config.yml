@@ -56,11 +56,11 @@ members:
 # the doi field is optional
 # papers should be placed in the pdfs folder
 papers:
-  - name: Removing opportunities to calculate improves students’ performance on subsequent word problems
+
+  - name: Removing Opportunities to Calculate Improves Students’ Performance on Subsequent Word Problems
     authors: Karen B. Givvin, Veronika Moroz, William Loftus, & James W. Stigler
     journal: "Cognitive Research: Principles and Implications"
     year: 2019
-    doi: 10.1186/s41235-019-0175-2
     filename: Givvin_et_al-2019-Cognitive_Research__Principles_and_Implications.pdf
 
   - name: The ​Better Book​ Approach for Education Research and Development
@@ -68,8 +68,50 @@ papers:
     journal: PREPRINT
     year: 2019
     filename: The “Better Book” Approach for Education R&D PREPRINT.pdf
-
-
+    abstract:
+    
+  - name: Online Learning as a Wind Tunnel for Improving Teaching
+    authors: James W. Stigler, Karen B. Givvin
+    year: 2017
+    filename: Online Learning as a Wind Tunnel for Improving Teaching.pdf
+    abstract:
+    
+  - name: What Community College Developmental Mathematics Students Understand about Mathematics
+    authors: James W. Stigler, Karen B. Givvin, and Belinda J. Thompson
+    journal: 
+    year: 2010
+    filename: What community college students know.pdf
+    abstract:
+    
+  - name: What Community College Developmental Mathematics Students Understand about Mathematics (The Interviews)
+    authors: James W. Stigler, Karen B. Givvin, and Belinda J. Thompson
+    journal: 
+    year: 2011
+    filename: What community college students understand, Part2.pdf
+    abstract: 
+    
+  - name: "Exploring the Practicing-connections Hypothesis: Using Gesture to Support Coordination of Ideas in Understanding a Complex Statistical Concept"
+    authors: Ji Y. Son , Priscilla Ramos , Melissa DeWolf , William Loftus and James W. Stigler
+    journal: "Cognitive Research: Principles and Implications"
+    year: 2018
+    filename: Practicing connections with gesture.pdf
+    abstract:
+    
+  - name: Expertise and Expert Performance in Teaching
+    authors: James W. Stigler and Kevin F. Miller
+    journal: 
+    year: 2018
+    filename: Expertise in teaching.pdf
+    abstract:     
+    
+  - name: DOES VAM + MET = IMPROVED TEACHING?
+    authors: James W. Stigler, James Hiebert, and Karen B. Givvin
+    journal: 
+    year: 2018
+    filename: VAM plus MET.pdf
+    abstract:  
+    
+    
 # Funders of our projects
 funders:
   - name: Chan Zuckerberg Initiative DAF
