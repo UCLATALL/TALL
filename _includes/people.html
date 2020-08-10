@@ -21,5 +21,19 @@
                 </div>
                 {% endfor %}
             </div>
+            <div class="col-md-12 text-center">
+            <h3>Alumni</h3>
+             </div>
+            {% for alumni in site.alumni %}
+                <div class="col-md-4">
+                    <div class="service-heading">
+                        <img src="{{ alumni.pic | prepend: "img/team/" }}" class="img-responsive img-square" " alt="Picture of {{ alumni.name }}"> 
+                        <h4>{{ alumni.name }}</h4>
+                          <a href="mailto:{{ alumni.email }}"style="color:rgb(99,39,26);">{{ alumni.email }}</a>
+                          <br>{{alumni.intro}}</p>
+                      
+                    </div>
+                </div>
+                {% endfor %}
         </div>
     </section>

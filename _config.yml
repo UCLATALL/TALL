@@ -40,11 +40,7 @@ members:
     email: maryctucker@ucla.edu
     intro: Mary Tucker is a graduate student in Developmental Psychology at UCLA. Her research interests include the psychological and contextual factors that influence teaching and learning, the design of learning environments in STEM domains, and the application of technology and data analytics to understand and improve teaching and learning.
     
-  - name: Stacy Shaw
-    pic: Stacy.jpg
-    email: stacy.tamsen.shaw@gmail.com
-    intro: Stacy Shaw is a graduate student in Developmental Psychology at UCLA. She is interested in creative thinking in STEM, with an emphasis on how students make connections across concepts, and how affective factors impact students' ability to think flexibly about concepts. 
-
+ 
   - name: Caylor Davis
     pic: Caylor.jpg
     email: crdavis25@ucla.edu
@@ -58,8 +54,24 @@ members:
   - name: Icy (Yunyi) Zhang
     pic: Icy.jpg
     email: zhang_yunyi@outlook.com
-    intro: Icy Zhang is a post-baccalaureate research assistant. She is interested in the role of gesture in supporting students’ understanding of difficult content such as statistics, the application of technology in education, and collaborative learning. 
+    intro: Icy Zhang is a graduate student in Developmental Psychology at UCLA. She is interested in the role of gesture in supporting students’ understanding of difficult content such as statistics, the application of technology in education, and collaborative learning. 
+    
+  - name: Claudia Sutter
+    pic: Claudia.jpg
+    email: ccs3z@virginia.edu
+    intro: Claudia C. Sutter is a postdoctoral scholar at UCLA and visiting scholar at UVA. She is interested in understanding (a) what drives students to learn and engage within the educational setting, (b) how students’ motivation (e.g., their beliefs and values) affects their learning behaviors and outcomes, and (c) how educational environments (instruction, learning materials) shape students’ opportunities to reach their full potential.
 
+#Alumni
+alumni:
+  - name: Stacy Shaw
+    pic: Stacy.jpg
+    email: stacy.tamsen.shaw@gmail.com
+    intro: Stacy Shaw is a graduate student in Developmental Psychology at UCLA. She is interested in creative thinking in STEM, with an emphasis on how students make connections across concepts, and how affective factors impact students' ability to think flexibly about concepts. 
+  
+  - name: Emma Geller
+    pic: Emma.jpg
+    email: egeller@ucsd.edu
+    intro: Emma Geller is an assistant teaching professor at UC San Diego. She is interested in applications of cognitive psychology to support deep learning and understanding in multimedia environments, especially regarding the design of online video learning.
 
 
 # Papers in publication
