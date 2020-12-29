@@ -92,6 +92,13 @@ papers:
     filename: Son et al. 2020 Modeling First PREPRINT.pdf
     abstract: In this article we describe our attempt to apply theories and findings from learning science to the design of a statistics course that aims to help students build a coherent and interconnected representation of the domain. The resulting practicing connections approach provides students with repeated opportunities to practice connections between core concepts (especially the concepts of statistical model, distribution, and randomness), key representations (R programming language and computational techniques such as simulation and bootstrapping), and real-world situations statisticians face as they explore variation, model variation, and evaluate and compare statistical models. We provide a guided tour through our curriculum implemented in an interactive online textbook (CourseKata.org) and then provide some evidence that students who complete the course are able to transfer what they have learned to the learning of new statistical techniques.
 
+  - name: "Instructed Hand Movements Affect Students’ Learning of an Abstract Concept from Video"
+    authors: Icy (Yunyi) Zhang, Karen B. Givvin, Jeffrey M. Sipple, Ji Y. Son,  James W. Stigler
+    journal: Cognitive Science
+    year: 2021
+    filename: Zhang et al. 2021 Instructed hand movements PREPRINT.pdf
+    abstract: The two studies reported here investigate the impact of instructed hand movements on students’ subsequent understanding of a concept. Students were asked to watch an instructional video—focused on the concept of statistical model—three times. These two studies found that instructed hand movement—even when presented as an unrelated, secondary task—can affect students’ learning of a complex concept.
+    
   - name: "Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains"
     authors: Laura Fries, Ji Y. Son, Karen B. Givvin, James W. Stigler
     journal: Educational Psychology Review
