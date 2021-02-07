@@ -28,7 +28,7 @@ members:
   - name: Adam Blake
     pic: Adam.jpg
     email: adamblake@ucla.edu
-    intro: Adam Blake is an Research Scientist at UCLA. He is interested in the factors that influence students' judgments, decisions, and strategies related to learning, and how instruction and learning materials can improve these behaviors. 
+    intro: Adam Blake is a Research Scientist at UCLA. He is interested in the factors that influence students' judgments, decisions, and strategies related to learning, and how instruction and learning materials can improve these behaviors. 
 
   - name: Laura Fries
     pic: Laura.jpg
@@ -46,11 +46,6 @@ members:
     email: crdavis25@ucla.edu
     intro: Caylor Davis is a researcher and curriculum developer for high school and college statistics courses. She is interested in research and course design that makes math more accessible for non-STEM students. </br> </br>
 
-  - name: Ben Winjum
-    pic: Ben.jpg
-    email: bwinjum@ucla.edu
-    intro: Ben Winjum is a staff member in the High Performance Computing group of UCLA’s Institute for Digital Research and Education, where he works on advanced computing and data analytics projects that support both education and research. </br> </br>
-
   - name: Icy (Yunyi) Zhang
     pic: Icy.jpg
     email: zhang_yunyi@outlook.com
@@ -60,6 +55,11 @@ members:
     pic: Claudia.jpg
     email: ccs3z@virginia.edu
     intro: Claudia C. Sutter is a postdoctoral scholar at UCLA and visiting scholar at UVA. She is interested in understanding (a) what drives students to learn and engage within the educational setting, (b) how students’ motivation (e.g., their beliefs and values) affects their learning behaviors and outcomes, and (c) how educational environments (instruction, learning materials) shape students’ opportunities to reach their full potential.
+
+  - name: Ben Winjum
+    pic: Ben.jpg
+    email: bwinjum@ucla.edu
+    intro: Ben Winjum is a staff member in the High Performance Computing group of UCLA’s Institute for Digital Research and Education, where he works on advanced computing and data analytics projects that support both education and research. </br> </br>
 
 #Alumni
 alumni:
