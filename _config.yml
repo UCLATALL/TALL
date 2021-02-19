@@ -85,11 +85,11 @@ papers:
     filename: The “Better Book” Approach for Education.pdf
     abstract: This paper describes a new approach for education research and development - the better book approach - and reports on our initial development and application of the approach in the context of introductory college-level statistics.
     
-  - name: "Modeling First Applying Learning Science to the Teaching of Introductory Statistics"
+  - name: "Modeling First: Applying Learning Science to the Teaching of Introductory Statistics"
     authors: Ji Y. Son, Adam Blake, Laura Fries, James W. Stigler
     journal: Journal of Statistics Education
     year: 2021
-    filename: Modeling First Applying Learning Science to the Teaching of Introductory Statistics
+    filename: Modeling First Applying Learning Science to the Teaching of Introductory Statistics.pdf
     abstract: In this article we describe our attempt to apply theories and findings from learning science to the design of a statistics course that aims to help students build a coherent and interconnected representation of the domain. The resulting practicing connections approach provides students with repeated opportunities to practice connections between core concepts (especially the concepts of statistical model, distribution, and randomness), key representations (R programming language and computational techniques such as simulation and bootstrapping), and real-world situations statisticians face as they explore variation, model variation, and evaluate and compare statistical models. We provide a guided tour through our curriculum implemented in an interactive online textbook (CourseKata.org) and then provide some evidence that students who complete the course are able to transfer what they have learned to the learning of new statistical techniques.
 
   - name: "Instructed Hand Movements Affect Students’ Learning of an Abstract Concept from Video"
