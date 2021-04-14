@@ -97,7 +97,7 @@ papers:
     journal: Cognitive Science
     year: 2021
     filename: Zhang 2021 Instructed hand movements.pdf
-    abstract: "The two studies reported here investigate the impact of instructed hand movements on students’ subsequent understanding of a concept. Students were asked to watch an instructional video—focused on the concept of statistical model—three times. These two studies found that instructed hand movement—even when presented as an unrelated, secondary task—can affect students’ learning of a complex concept." <a href="{{ Hutson 2021 Students Who Gesture.pdf | prepend: "pdfs/" | relative_url }}">  This article was featured in Scientific American.</a>
+    abstract: The two studies reported here investigate the impact of instructed hand movements on students’ subsequent understanding of a concept. Students were asked to watch an instructional video—focused on the concept of statistical model—three times. These two studies found that instructed hand movement—even when presented as an unrelated, secondary task—can affect students’ learning of a complex concept. <a href="https://www.scientificamerican.com/article/students-who-gesture-during-learning-grasp-concepts-better/"> This article was featured in Scientific American.</a>
     
   - name: "Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains"
     authors: Laura Fries, Ji Y. Son, Karen B. Givvin, James W. Stigler
