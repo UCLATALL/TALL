@@ -23,7 +23,7 @@ members:
   - name: Ji Son
     pic: Ji.jpg
     email: jiyunson@gmail.com
-    intro: Ji Son is professor of psychology at CSULA. She is interested in how basic cognitive and perceptual processes foster rich and transferable learning. <br><br><br>
+    intro: Ji Son is professor of psychology at Cal State LA. She is interested in how basic cognitive and perceptual processes foster rich and transferable learning. <br><br><br>
     
   - name: Adam Blake
     pic: Adam.jpg
@@ -48,7 +48,7 @@ members:
 
   - name: Icy (Yunyi) Zhang
     pic: Icy.jpg
-    email: zhang_yunyi@outlook.com
+    email: yunyi9847@g.ucla.edu
     intro: Icy Zhang is a graduate student in Developmental Psychology at UCLA. She is interested in the role of gesture in supporting students’ understanding of difficult content such as statistics, the application of technology in education, and collaborative learning. 
     
   - name: Claudia Sutter
@@ -97,7 +97,7 @@ papers:
     journal: Cognitive Science
     year: 2021
     filename: Zhang 2021 Instructed hand movements.pdf
-    abstract: The two studies reported here investigate the impact of instructed hand movements on students’ subsequent understanding of a concept. Students were asked to watch an instructional video—focused on the concept of statistical model—three times. These two studies found that instructed hand movement—even when presented as an unrelated, secondary task—can affect students’ learning of a complex concept.
+    abstract: "The two studies reported here investigate the impact of instructed hand movements on students’ subsequent understanding of a concept. Students were asked to watch an instructional video—focused on the concept of statistical model—three times. These two studies found that instructed hand movement—even when presented as an unrelated, secondary task—can affect students’ learning of a complex concept." <a href="{{ Hutson 2021 Students Who Gesture.pdf | prepend: "pdfs/" | relative_url }}">  This article was featured in Scientific American.</a>
     
   - name: "Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains"
     authors: Laura Fries, Ji Y. Son, Karen B. Givvin, James W. Stigler
