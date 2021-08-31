@@ -157,6 +157,21 @@ papers:
     filename: What community college students know.pdf
     abstract: This paper investigates what community college students actually understand about the mathematics that underlie the topics they’ve been taught and seeks evidence that students used reasoning in answering mathematical questions.
     
+    
+  - name: "Improving Social and Conceptual Connections during Remote Statistics Classes [confernece paper]" 
+    authors: Caylor R. Davis, Karen Givvin, Jinna Hwang, and Ji Y. Son
+    journal:
+    year: 2021
+    filename: Improving social and conceptual connections.pdf
+    abstract: This paper reports on the implementation of a statistics lesson in a remote classroom that incorporates an embodied group activity as a way to improve perceptions of social connection and to enrich conceptual connections during learning.
+  
+  
+  - name: How Much Students Value an Introductory Statistics Course, How Value Levels Change across the Term, and How They Predict Learning [confernece paper] 
+    authors: Claudia C. Sutter, Mary Tucker, Karen Givvin, and Chris S. Hulleman
+    journal:
+    year: 2021
+    filename: IASE_Final_Version_Sutter_et_al.pdf
+    abstract: This paper examines changes in utility value in an introductory statistics course overall, by sex and underrepresented racial minority (URM) and tested the relationship between utility value and learning.
 
 # Funders of our projects
 funders:
