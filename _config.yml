@@ -92,6 +92,13 @@ papers:
     filename: Modeling First Applying Learning Science to the Teaching of Introductory Statistics.pdf
     abstract: In this article we describe our attempt to apply theories and findings from learning science to the design of a statistics course that aims to help students build a coherent and interconnected representation of the domain. The resulting practicing connections approach provides students with repeated opportunities to practice connections between core concepts (especially the concepts of statistical model, distribution, and randomness), key representations (R programming language and computational techniques such as simulation and bootstrapping), and real-world situations statisticians face as they explore variation, model variation, and evaluate and compare statistical models. We provide a guided tour through our curriculum implemented in an interactive online textbook (CourseKata.org) and then provide some evidence that students who complete the course are able to transfer what they have learned to the learning of new statistical techniques.
 
+  - name: "Utility Value Trajectories and their Relationship with Behavioral Engagement and Performance in Introductory Statistics"
+    authors: Claudia C. Sutter1, Chris S. Hulleman, Karen B. Givvin, Mary Tucker
+    journal: Learning and Individual Differences
+    year: 2021
+    filename: Sutter et al. 2021 Utility Value PREPRINT.pdf
+    abstract: This study examined utility value trajectories overall and by gender, race, and underrepresented racial minority (URM) status within an introductory statistics course and tested the relationships between utility value, behavioral engagement, and performance. 
+
   - name: "Instructed Hand Movements Affect Students’ Learning of an Abstract Concept from Video"
     authors: Icy (Yunyi) Zhang, Karen B. Givvin, Jeffrey M. Sipple, Ji Y. Son,  James W. Stigler
     journal: Cognitive Science
