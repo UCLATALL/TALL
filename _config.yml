@@ -85,7 +85,14 @@ papers:
     year: 2019
     filename: The “Better Book” Approach for Education.pdf
     abstract: This paper describes a new approach for education research and development - the better book approach - and reports on our initial development and application of the approach in the context of introductory college-level statistics.
-    
+ 
+  - name: Watching a Hands-on Activity Improves Students’ Understanding of Randomness PREPRINT
+    authors: Icy (Yunyi) Zhang, Mary Tucker, James W. Stigler
+    journal: Computer & Education
+    year: 2022
+    filename: shuffle_preprint.pdf
+    abstract: Given the growing interest in using statistical programming languages like R as pedagogical tools, the findings of this study provide important and encouraging insights into the use of hands-on demonstrations to complement computer simulation in remote teaching. It validates the importance of giving students some hands-on exposure to the simulation processes prior to the compu- tational simulation we want them to understand and makes it clear that at least some of the benefits of embodied activities can be retained even if students are not performing the hands-on activities themselves.
+   
   - name: "Modeling First: Applying Learning Science to the Teaching of Introductory Statistics"
     authors: Ji Y. Son, Adam Blake, Laura Fries, James W. Stigler
     journal: Journal of Statistics Education
