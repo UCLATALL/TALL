@@ -92,6 +92,13 @@ papers:
     year: 2022
     filename: Watching a hands-on activity improves students’ understanding of randomness.pdf
     abstract: Given the growing interest in using statistical programming languages like R as pedagogical tools, the findings of this study provide important and encouraging insights into the use of hands-on demonstrations to complement computer simulation in remote teaching. It validates the importance of giving students some hands-on exposure to the simulation processes prior to the compu- tational simulation we want them to understand and makes it clear that at least some of the benefits of embodied activities can be retained even if students are not performing the hands-on activities themselves.
+  
+  - name: Effect of Feedback with Video-based Peer Modeling on Learning and Self-efficacy
+    authors: Wadi Eghterafi, Mary C. Tucker, Icy (Yunyi) Zhang, Ji Y. Son
+    journal: Online Learning Journal
+    year: 2022
+    filename: Eghterafi_2022.pdf
+    abstract: In this study, we examined the effect of video-based feedback designed to highlight a peer engaging in effective thinking processes on self-efficacy beliefs and learning outcomes (performance on a delayed quiz). Results indicated that students who watched the mastery videos, but not the coping videos, rated their self-efficacy higher and scored higher on a class quiz taken more than a day after the feedback intervention than students who viewed a worked example. 
    
   - name: "Modeling First: Applying Learning Science to the Teaching of Introductory Statistics"
     authors: Ji Y. Son, Adam Blake, Laura Fries, James W. Stigler
