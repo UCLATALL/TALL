@@ -50,16 +50,16 @@ members:
     email: alicex@g.ucla.edu
     intro: Alice Xu is a graduate student in Developmental Psychology at UCLA. She is interested in individual differences during learning, STEM learning in the college population, and children's cognitive and language development. 
  
-  - name: Claudia Sutter
-    pic: Claudia.jpg
-    email: ccs3z@virginia.edu
-    intro: Claudia C. Sutter is a postdoctoral scholar at UCLA and visiting scholar at UVA. She is interested in understanding (a) what drives students to learn and engage within the educational setting, (b) how students’ motivation (e.g., their beliefs and values) affects their learning behaviors and outcomes, and (c) how educational environments (instruction, learning materials) shape students’ opportunities to reach their full potential.
-  
   - name: Ben Winjum
     pic: Ben.jpg
     email: bwinjum@ucla.edu
     intro: Ben Winjum is a staff member in the High Performance Computing group of UCLA’s Institute for Digital Research and Education, where he works on advanced computing and data analytics projects that support both education and research. </br> </br>
 
+  - name: Claudia Sutter
+    pic: Claudia.jpg
+    email: ccs3z@virginia.edu
+    intro: Claudia C. Sutter is a postdoctoral scholar at UCLA and visiting scholar at UVA. She is interested in understanding (a) what drives students to learn and engage within the educational setting, (b) how students’ motivation (e.g., their beliefs and values) affects their learning behaviors and outcomes, and (c) how educational environments (instruction, learning materials) shape students’ opportunities to reach their full potential.
+  
 
 #Alumni
 alumni:
@@ -73,7 +73,7 @@ alumni:
     email: egeller@ucsd.edu
     intro: Emma Geller is an assistant teaching professor at UC San Diego. She is interested in applications of cognitive psychology to support deep learning and understanding in multimedia environments, especially regarding the design of online video learning.
 
- - name: Mary Tucker
+ -  name: Mary Tucker
     pic: Mary.jpg
     email: maryctucker@ucla.edu
     intro: Mary Tucker graduated from UCLA in 2022. Her research interests include the psychological and contextual factors that influence teaching and learning, the design of learning environments in STEM domains, and the application of technology and data analytics to understand and improve teaching and learning.
