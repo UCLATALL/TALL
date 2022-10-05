@@ -45,11 +45,6 @@ members:
     email: crdavis25@ucla.edu
     intro: Caylor Davis is a researcher and curriculum developer for high school and college statistics courses. She is interested in research and course design that makes math more accessible for non-STEM students. </br> </br>
 
-  - name: Mary Tucker
-    pic: Mary.jpg
-    email: maryctucker@ucla.edu
-    intro: Mary Tucker is a graduate student in Developmental Psychology at UCLA. Her research interests include the psychological and contextual factors that influence teaching and learning, the design of learning environments in STEM domains, and the application of technology and data analytics to understand and improve teaching and learning.
- 
   - name: Alice Xu
     pic: Alice.jpg   
     email: alicex@g.ucla.edu
@@ -78,7 +73,11 @@ alumni:
     email: egeller@ucsd.edu
     intro: Emma Geller is an assistant teaching professor at UC San Diego. She is interested in applications of cognitive psychology to support deep learning and understanding in multimedia environments, especially regarding the design of online video learning.
 
-
+ - name: Mary Tucker
+    pic: Mary.jpg
+    email: maryctucker@ucla.edu
+    intro: Mary Tucker graduated from UCLA in 2022. Her research interests include the psychological and contextual factors that influence teaching and learning, the design of learning environments in STEM domains, and the application of technology and data analytics to understand and improve teaching and learning.
+ 
 # Papers in publication
 # the doi field is optional
 # papers should be placed in the pdfs folder
