@@ -12,7 +12,7 @@
             <br>
             {% for paper in site.papers %}
             <h4> {{ paper.name }} </h4>
-				{{ paper.authors }} ({{ paper.year }}). <br> <br> {{ paper.abstract }}
+				{{ paper.authors }} ({{ paper.year }}). <br> <br> {{paper.link}} {{ paper.abstract }}
 
                     <a href="{{ paper.filename | prepend: "pdfs/" | relative_url }}">Download a copy.</a>
                      <br><img class="full" src="img/separateline.png"> 

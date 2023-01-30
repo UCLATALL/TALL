@@ -82,14 +82,19 @@ alumni:
 # the doi field is optional
 # papers should be placed in the pdfs folder
 papers:
-  - name: The Better Book Approach for Education Research and Development
+  - name: <span style="color:red">Don't force a false choice between algebra and data science</span>.
+    authors: Ji Y. Son & James W. Stigler
+    link: <a href="https://edsource.org/2023/dont-force-a-false-choice-between-algebra-and-data-science/684817">
+    year: 2022
+     
+  - name: <span style="color:red">The Better Book Approach for Education Research and Development>.
     authors: James W. Stigler, Ji Y. Son, Karen B. Givvin, Adam Blake, Laura Fries, Stacy T. Shaw, & Mary C. Tucker
     journal: PREPRINT
     year: 2019
     filename: The “Better Book” Approach for Education.pdf
     abstract: This paper describes a new approach for education research and development - the better book approach - and reports on our initial development and application of the approach in the context of introductory college-level statistics.
  
-  - name: Teaching Statistics and Data Analysis with R
+  - name: <span style="color:red">Teaching Statistics and Data Analysis with R>.
     authors: Mary C. Tucker, Stacy T. Shaw, Ji Y. Son & James W. Stigler
     journal: Journal of Statistics and Data Science Education
     year: 2022
@@ -180,13 +185,11 @@ papers:
     filename: VAM plus MET.pdf
     abstract: The paper discusses the logic of the more traditional approach on which many current policies for improving teaching in the United States are based and then presents an alternative research approach, in which a different theory of improvement is assumed. 
     
-  
   - name: Online Learning as a Wind Tunnel for Improving Teaching
     authors: James W. Stigler, Karen B. Givvin
     year: 2017
     filename: Online Learning as a Wind Tunnel for Improving Teaching.pdf
     abstract: The chapter proposes an approach that combines the affordances of online learning with the methodologies of systems improvement. It discusses how online learning might be a wind tunnel for the study and improvement of teaching.
-    
     
   - name: "What Community College Developmental Mathematics Students Understand about Mathematics, Part2: The Interviews"
     authors: Karen B. Givvin, James W. Stigler, and Belinda J. Thompson
@@ -194,8 +197,7 @@ papers:
     year: 2011
     filename: What community college students understand, Part2.pdf
     abstract: Following the prior paper, this article presents findings from one-on-one interviews with a sample of community college developmental math students. These interviews were designed to further probe students’ mathematical thinking, both correct and incorrect.
-       
-    
+        
   - name: What Community College Developmental Mathematics Students Understand about Mathematics
     authors: James W. Stigler, Karen B. Givvin, and Belinda J. Thompson
     journal: 
@@ -203,14 +205,12 @@ papers:
     filename: What community college students know.pdf
     abstract: This paper investigates what community college students actually understand about the mathematics that underlie the topics they’ve been taught and seeks evidence that students used reasoning in answering mathematical questions.
     
-    
   - name: "Improving Social and Conceptual Connections during Remote Statistics Classes [conference paper]" 
     authors: Caylor R. Davis, Karen Givvin, Jinna Hwang, and Ji Y. Son
     journal:
     year: 2021
     filename: Improving social and conceptual connections.pdf
     abstract: This paper reports on the implementation of a statistics lesson in a remote classroom that incorporates an embodied group activity as a way to improve perceptions of social connection and to enrich conceptual connections during learning.
-  
   
   - name: How Much Students Value an Introductory Statistics Course, How Value Levels Change across the Term, and How They Predict Learning [conference paper] 
     authors: Claudia C. Sutter, Mary Tucker, Karen Givvin, and Chris S. Hulleman
