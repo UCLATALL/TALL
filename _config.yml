@@ -82,19 +82,19 @@ alumni:
 # the doi field is optional
 # papers should be placed in the pdfs folder
 papers:
-  - name: <span style="color:red">Don't force a false choice between algebra and data science</span>.
+  - name: <span style="color:red">Don't force a false choice between algebra and data science</span>
     authors: Ji Y. Son & James W. Stigler
     link: <a href="https://edsource.org/2023/dont-force-a-false-choice-between-algebra-and-data-science/684817">
     year: 2022
      
-  - name: <span style="color:red">The Better Book Approach for Education Research and Development</span>.
+  - name: <span style="color:red">The Better Book Approach for Education Research and Development</span>
     authors: James W. Stigler, Ji Y. Son, Karen B. Givvin, Adam Blake, Laura Fries, Stacy T. Shaw, & Mary C. Tucker
     journal: PREPRINT
     year: 2019
     filename: The “Better Book” Approach for Education.pdf
     abstract: This paper describes a new approach for education research and development - the better book approach - and reports on our initial development and application of the approach in the context of introductory college-level statistics.
  
-  - name: <span style="color:red">Teaching Statistics and Data Analysis with R</span>.
+  - name: <span style="color:red">Teaching Statistics and Data Analysis with R</span>
     authors: Mary C. Tucker, Stacy T. Shaw, Ji Y. Son & James W. Stigler
     journal: Journal of Statistics and Data Science Education
     year: 2022
