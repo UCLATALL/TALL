@@ -84,7 +84,7 @@ alumni:
 papers:
   - name: <span style="color:red">Don't force a false choice between algebra and data science</span>
     authors: Ji Y. Son & James W. Stigler
-    link: <a href="https://edsource.org/2023/dont-force-a-false-choice-between-algebra-and-data-science/684817">
+    filename: Don’t force a false choice between algebra and data science | EdSource.html
     year: 2022
      
   - name: <span style="color:red">The Better Book Approach for Education Research and Development</span>
