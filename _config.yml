@@ -82,6 +82,11 @@ alumni:
 # the doi field is optional
 # papers should be placed in the pdfs folder
 papers:
+  - name: <span style="color:red">Listening for Common Ground in High School and Early Collegiate Mathematics</span>
+    authors: Gail Burrill, Henry Cohn, Yvonne Lai, Dev P. Sinha, Ji Y. Son, & Katherine F. Stevenson
+    filename: Burrill 2023 Common Ground.pdf
+    year: 2023
+
   - name: <span style="color:red">Don't force a false choice between algebra and data science</span>
     authors: Ji Y. Son & James W. Stigler
     filename: Don’t force a false choice between algebra and data science | EdSource.html
