@@ -84,8 +84,9 @@ alumni:
 papers:
   - name: <span style="color:red">Listening for Common Ground in High School and Early Collegiate Mathematics</span>
     authors: Gail Burrill, Henry Cohn, Yvonne Lai, Dev P. Sinha, Ji Y. Son, & Katherine F. Stevenson
-    filename: Burrill 2023 Common Ground.pdf
     year: 2023
+    filename: Burrill 2023 Common Ground.pdf
+    abstract: Solutions to pressing and complex social challenges require that we reach for common ground. Only through cooperation among people with a broad range of backgrounds and expertise can progress be made on issues as challenging as improving student success in mathematics. In this spirit, the AMS Committee on Education held a forum in May 2022 entitled The Evolving Curriculum in High School and Early Undergraduate Mathematical Sciences Education. This article is a report on that forum by the authors listed above, who were among the organizers and presenters.
 
   - name: <span style="color:red">Don't force a false choice between algebra and data science</span>
     authors: Ji Y. Son & James W. Stigler
