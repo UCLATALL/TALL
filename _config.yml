@@ -82,6 +82,12 @@ alumni:
 # the doi field is optional
 # papers should be placed in the pdfs folder
 papers:
+  - name: Representational-Mapping Strategies Improve Learning From an Online Statistics Textbook
+    authors: Icy (Yunyi) Zhang, Maureen E. Gray, Alicia (Xiaoxuan) Cheng, Ji Y. Son, and James W. Stigler
+    year: 2023
+    filename: representation-mapping.pdf
+    abstract: The present study developed a representation-mapping intervention designed to help students interpret, coordinate, and eventually translate across multiple representations. We integrated the intervention into an online textbook being used in a college course, allowing us to study its impact in a real course over an extended period of time. The findings of this study support the efficacy of the representation-mapping intervention for facilitating learning and shed light on how to implement and refine such interventions in authentic learning contexts.
+    
   - name: <span style="color:red">Listening for Common Ground in High School and Early Collegiate Mathematics</span>
     authors: Gail Burrill, Henry Cohn, Yvonne Lai, Dev P. Sinha, Ji Y. Son, & Katherine F. Stevenson
     year: 2023
