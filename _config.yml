@@ -103,132 +103,138 @@ papers:
     filename: Don’t force a false choice between algebra and data science | EdSource.html
     year: 2022
      
-  - name: The Better Book Approach for Education Research and Development
+  - name: <span style="color:red">The Better Book Approach for Education Research and Development</span>
     authors: James W. Stigler, Ji Y. Son, Karen B. Givvin, Adam Blake, Laura Fries, Stacy T. Shaw, & Mary C. Tucker
     journal: PREPRINT
     year: 2019
     filename: The “Better Book” Approach for Education.pdf
     abstract: This paper describes a new approach for education research and development - the better book approach - and reports on our initial development and application of the approach in the context of introductory college-level statistics.
- 
-  - name: Teaching Statistics and Data Analysis with R
+  
+  - name: <span style="color:red">Lower Socioeconomic Status is Related to Poorer Emotional Well-Being Prior to Academic Exams</span>
+    authors: Danny Rahal, Stacy T. Shaw, James W. Stigler 
+    year: 2023
+    filename: Lower socioeconomic status.pdf
+    abstract: People of lower social status tend to have greater emotional responses to stress. This study assessed whether lower social status was related to greater emotional responses in anticipation of a naturalistic stressor: academic exams among college students. As hypothesized, multilevel models (ratings nested within participants) predicting emotion indicated that students with lower mother’s education had less positive emotion, more depressive emotion, and more anxious emotion the day prior to academic exams than students with higher mother’s education (proportional reductions in variance [PRV] = .013–.020). Specifically, lower mother’s education was associated with poorer well-being before but not after the exam. Exploratory models revealed that differences in emotion by mother’s education were strongest for students with lower exam scores (PRV = .030–.040).
+
+  - name: <span style="color:red">Teaching Statistics and Data Analysis with R</span>
     authors: Mary C. Tucker, Stacy T. Shaw, Ji Y. Son & James W. Stigler
     journal: Journal of Statistics and Data Science Education
     year: 2022
     filename: Tucker 2022 Teaching Statistics.pdf
     abstract: In this exploratory study, we characterize the attitudes and experiences of 672 undergraduate students as they used our online textbook as part of a 10-week introductory course in statistics. Students expressed negative attitudes and concerns related to R at the beginning of the course, but most developed more positive attitudes after engaging with course materials, regardless of demographic characteristics or prior programming experience. Analysis of a subgroup of students revealed that change in attitudes toward Rmay be linked to students’ patterns of engagement over time and students’ perceptions of the learning environment.
 
-  - name: Student Concerns and Perceived Challengesin Introductory Statistics, How the Frequency Shifted during COVID-19, and How They Differ bySubgroups of Students
+  - name: <span style="color:red">Student Concerns and Perceived Challengesin Introductory Statistics, How the Frequency Shifted during COVID-19, and How They Differ bySubgroups of Students</span>
     authors: Claudia C. Sutter, Karen B. Givvin, Mary C. Tucker, Kathryn A. Givvin, Ana Leandro-Ramos & Paige L. Solomon
     journal: Journal of Statistics and Data Science Education
     year: 2022
     filename: Student Concerns and Perceived Challenges in Introductory Statistics How the Frequency Shifted during COVID 19 and How They Differ by Subgroups of.pdf
     abstract: We explored how the frequency of concerns changed with the onset of COVID-19(N=1417) and, during COVID-19, how incoming concerns compared to later perceived challenges(n=524).Students were most concerned about R coding, understanding concepts, workload, prior knowledge,time management, and performance, with each of these concerns mentioned less frequently during thanbefore COVID-19. Concerns most directly related to the pandemic—virtual learning and inaccessibility of resources—showed an increase in frequency. The frequency of concerns differed by gender and URM status.The most frequently mentioned challenges were course workload, virtual learning, R coding, and under-standing concepts, with significant differences by URM status. Concerns about understanding concepts,lack of prior knowledge, performance, and time management declined from the beginning to the end of theterm. Workload had the highest rate of both consistency and emergence across the term. 
     
-  - name: Watching a Hands-on Activity Improves Students’ Understanding of Randomness
+  - name: <span style="color:red">Watching a Hands-on Activity Improves Students’ Understanding of Randomness</span>
     authors: Icy (Yunyi) Zhang, Mary Tucker, James W. Stigler
     journal: Computer & Education
     year: 2022
     filename: Watching a hands-on activity improves students’ understanding of randomness.pdf
     abstract: Given the growing interest in using statistical programming languages like R as pedagogical tools, the findings of this study provide important and encouraging insights into the use of hands-on demonstrations to complement computer simulation in remote teaching. It validates the importance of giving students some hands-on exposure to the simulation processes prior to the compu- tational simulation we want them to understand and makes it clear that at least some of the benefits of embodied activities can be retained even if students are not performing the hands-on activities themselves.
 
-  - name: Reasoning Affordances with Tables and Bar Charts
+  - name: <span style="color:red">Reasoning Affordances with Tables and Bar Charts</span>
     authors: Cindy Xiong, Elsie Lee-Robbins, Icy Zhang, Aimen Gaba, Steven Franconeri
     journal: IEEE Transactions on Visualization and Computer Graphics.
     year: 2022
     filename: Reasoning_Affordances_with_Tables_and_Bar_Charts.pdf
     abstract: We tested whether confirmation bias exists when people reason with visualized data and whether certain visualization designs can elicit less biased reasoning strategies. We asked crowdworkers to solve reasoning problems that had the potential to evoke both poor reasoning strategies and confirmation bias. Presenting the data in a table format helped participants reason with the correct ratio strategy while showing the data as a bar table or a bar chart led participants towards incorrect heuristics. Confirmation bias was not significantly present when beliefs were primed, but it was present when beliefs were pre-existing. Additionally, the table presentation format was more likely to afford the ratio reasoning strategy, and the use of ratio strategy was more likely to lead to the correct answer. 
     
-  - name: Effect of Feedback with Video-based Peer Modeling on Learning and Self-efficacy
+  - name: <span style="color:red">Effect of Feedback with Video-based Peer Modeling on Learning and Self-efficacy</span>
     authors: Wadi Eghterafi, Mary C. Tucker, Icy (Yunyi) Zhang, Ji Y. Son
     journal: Online Learning Journal
     year: 2022
     filename: Eghterafi_2022.pdf
     abstract: In this study, we examined the effect of video-based feedback designed to highlight a peer engaging in effective thinking processes on self-efficacy beliefs and learning outcomes (performance on a delayed quiz). Results indicated that students who watched the mastery videos, but not the coping videos, rated their self-efficacy higher and scored higher on a class quiz taken more than a day after the feedback intervention than students who viewed a worked example. 
    
-  - name: "Modeling First: Applying Learning Science to the Teaching of Introductory Statistics"
+  - name: <span style="color:red">"Modeling First: Applying Learning Science to the Teaching of Introductory Statistics"</span>
     authors: Ji Y. Son, Adam Blake, Laura Fries, James W. Stigler
     journal: Journal of Statistics Education
     year: 2021
     filename: Modeling First Applying Learning Science to the Teaching of Introductory Statistics.pdf
     abstract: In this article we describe our attempt to apply theories and findings from learning science to the design of a statistics course that aims to help students build a coherent and interconnected representation of the domain. The resulting practicing connections approach provides students with repeated opportunities to practice connections between core concepts (especially the concepts of statistical model, distribution, and randomness), key representations (R programming language and computational techniques such as simulation and bootstrapping), and real-world situations statisticians face as they explore variation, model variation, and evaluate and compare statistical models. We provide a guided tour through our curriculum implemented in an interactive online textbook (CourseKata.org) and then provide some evidence that students who complete the course are able to transfer what they have learned to the learning of new statistical techniques.
 
-  - name: "Utility Value Trajectories and their Relationship with Behavioral Engagement and Performance in Introductory Statistics"
+  - name: <span style="color:red">"Utility Value Trajectories and their Relationship with Behavioral Engagement and Performance in Introductory Statistics"</span>
     authors: Claudia C. Sutter, Chris S. Hulleman, Karen B. Givvin, Mary Tucker
     journal: Learning and Individual Differences
     year: 2021
     filename: Sutter 2022 Utility value trajectories.pdf
     abstract: This study examined utility value trajectories overall and by gender, race, and underrepresented racial minority (URM) status within an introductory statistics course and tested the relationships between utility value, behavioral engagement, and performance. 
 
-  - name: "Instructed Hand Movements Affect Students’ Learning of an Abstract Concept from Video"
+  - name: <span style="color:red">"Instructed Hand Movements Affect Students’ Learning of an Abstract Concept from Video"</span>
     authors: Icy (Yunyi) Zhang, Karen B. Givvin, Jeffrey M. Sipple, Ji Y. Son,  James W. Stigler
     journal: Cognitive Science
     year: 2021
     filename: Zhang 2021 Instructed hand movements.pdf
     abstract: The two studies reported here investigate the impact of instructed hand movements on students’ subsequent understanding of a concept. Students were asked to watch an instructional video—focused on the concept of statistical model—three times. These two studies found that instructed hand movement—even when presented as an unrelated, secondary task—can affect students’ learning of a complex concept. <a href="https://www.scientificamerican.com/article/students-who-gesture-during-learning-grasp-concepts-better/"> This article was featured in Scientific American.</a>
     
-  - name: "Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains"
+  - name: <span style="color:red">"Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains"</span>
     authors: Laura Fries, Ji Y. Son, Karen B. Givvin, James W. Stigler
     journal: Educational Psychology Review
     year: 2020
     filename: 2020 Practicing Connections.pdf
     abstract: "Research suggests that expert understanding is characterized by coherent mental representations featuring a high level of connectedness. This paper advances the idea that educators can facilitate this level of understanding in students through the practicing connections framework: a practical framework to guide instructional design for developing deep understanding and transferable knowledge in complex academic domains." 
     
-  - name: Removing Opportunities to Calculate Improves Students’ Performance on Subsequent Word Problems
+  - name: <span style="color:red">Removing Opportunities to Calculate Improves Students’ Performance on Subsequent Word Problems</span>
     authors: Karen B. Givvin, Veronika Moroz, William Loftus, & James W. Stigler
     journal: "Cognitive Research: Principles and Implications"
     year: 2019
     filename: Givvin_et_al-2019-Cognitive_Research__Principles_and_Implications.pdf
     abstract: This paper reports our investigation on whether removing opportunities to calculate could improve students’ subsequent ability to solve similar word problems
 
-  - name: "Exploring the Practicing-connections Hypothesis: Using Gesture to Support Coordination of Ideas in Understanding a Complex Statistical Concept"
+  - name: <span style="color:red">"Exploring the Practicing-connections Hypothesis: Using Gesture to Support Coordination of Ideas in Understanding a Complex Statistical Concept"</span>
     authors: Ji Y. Son , Priscilla Ramos , Melissa DeWolf , William Loftus and James W. Stigler
     journal: "Cognitive Research: Principles and Implications"
     year: 2018
     filename: Practicing connections with gesture.pdf
     abstract: "This paper presented a framework and approach for studying how students come to understand complex concepts in rich domains. Specifically, it explores the role that a teacher’s gesture might play in supporting students’ coordination of two concepts central to understanding in the domain of statistics: mean and standard deviation."
     
-  - name: Expertise and Expert Performance in Teaching
+  - name: <span style="color:red">Expertise and Expert Performance in Teaching</span>
     authors: James W. Stigler and Kevin F. Miller
     journal: 
     year: 2018
     filename: Expertise in teaching.pdf
     abstract: This chapter tries to take a broader approach to understanding the nature and development of expertise and expert performance in teaching. The paper also tries to integrate a number of ideas and findings from literatures as diverse as cross-cultural compar- isons of teaching, cognitive psychology, and systems improvement, among others.
     
-  - name: DOES VAM + MET = IMPROVED TEACHING?
+  - name: <span style="color:red">DOES VAM + MET = IMPROVED TEACHING?</span>
     authors: James W. Stigler, James Hiebert, and Karen B. Givvin
     journal: 
     year: 2018
     filename: VAM plus MET.pdf
     abstract: The paper discusses the logic of the more traditional approach on which many current policies for improving teaching in the United States are based and then presents an alternative research approach, in which a different theory of improvement is assumed. 
     
-  - name: Online Learning as a Wind Tunnel for Improving Teaching
+  - name: <span style="color:red">Online Learning as a Wind Tunnel for Improving Teaching</span>
     authors: James W. Stigler, Karen B. Givvin
     year: 2017
     filename: Online Learning as a Wind Tunnel for Improving Teaching.pdf
     abstract: The chapter proposes an approach that combines the affordances of online learning with the methodologies of systems improvement. It discusses how online learning might be a wind tunnel for the study and improvement of teaching.
     
-  - name: "What Community College Developmental Mathematics Students Understand about Mathematics, Part2: The Interviews"
+  - name: <span style="color:red">"What Community College Developmental Mathematics Students Understand about Mathematics, Part2: The Interviews"</span>
     authors: Karen B. Givvin, James W. Stigler, and Belinda J. Thompson
     journal: 
     year: 2011
     filename: What community college students understand, Part2.pdf
     abstract: Following the prior paper, this article presents findings from one-on-one interviews with a sample of community college developmental math students. These interviews were designed to further probe students’ mathematical thinking, both correct and incorrect.
         
-  - name: What Community College Developmental Mathematics Students Understand about Mathematics
+  - name: <span style="color:red">What Community College Developmental Mathematics Students Understand about Mathematics</span>
     authors: James W. Stigler, Karen B. Givvin, and Belinda J. Thompson
     journal: 
     year: 2010
     filename: What community college students know.pdf
     abstract: This paper investigates what community college students actually understand about the mathematics that underlie the topics they’ve been taught and seeks evidence that students used reasoning in answering mathematical questions.
     
-  - name: "Improving Social and Conceptual Connections during Remote Statistics Classes [conference paper]" 
+  - name: <span style="color:red">"Improving Social and Conceptual Connections during Remote Statistics Classes [conference paper]" </span>
     authors: Caylor R. Davis, Karen Givvin, Jinna Hwang, and Ji Y. Son
     journal:
     year: 2021
     filename: Improving social and conceptual connections.pdf
     abstract: This paper reports on the implementation of a statistics lesson in a remote classroom that incorporates an embodied group activity as a way to improve perceptions of social connection and to enrich conceptual connections during learning.
   
-  - name: How Much Students Value an Introductory Statistics Course, How Value Levels Change across the Term, and How They Predict Learning [conference paper] 
+  - name: <span style="color:red">How Much Students Value an Introductory Statistics Course, How Value Levels Change across the Term, and How They Predict Learning [conference paper]</span>
     authors: Claudia C. Sutter, Mary Tucker, Karen Givvin, and Chris S. Hulleman
     journal:
     year: 2021
