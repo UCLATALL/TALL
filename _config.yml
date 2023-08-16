@@ -114,7 +114,7 @@ papers:
     authors: Danny Rahal, Stacy T. Shaw, James W. Stigler 
     year: 2023
     filename: Lower socioeconomic status.pdf
-    abstract: People of lower social status tend to have greater emotional responses to stress. This study assessed whether lower social status was related to greater emotional responses in anticipation of a naturalistic stressor: academic exams among college students. As hypothesized, multilevel models (ratings nested within participants) predicting emotion indicated that students with lower mother’s education had less positive emotion, more depressive emotion, and more anxious emotion the day prior to academic exams than students with higher mother’s education (proportional reductions in variance [PRV] = .013–.020). Specifically, lower mother’s education was associated with poorer well-being before but not after the exam. Exploratory models revealed that differences in emotion by mother’s education were strongest for students with lower exam scores (PRV = .030–.040).
+    abstract: "People of lower social status tend to have greater emotional responses to stress. This study assessed whether lower social status was related to greater emotional responses in anticipation of a naturalistic stressor: academic exams among college students. As hypothesized, multilevel models (ratings nested within participants) predicting emotion indicated that students with lower mother’s education had less positive emotion, more depressive emotion, and more anxious emotion the day prior to academic exams than students with higher mother’s education (proportional reductions in variance [PRV] = .013–.020). Specifically, lower mother’s education was associated with poorer well-being before but not after the exam. Exploratory models revealed that differences in emotion by mother’s education were strongest for students with lower exam scores (PRV = .030–.040)."
 
   - name: <span style="color:red">Teaching Statistics and Data Analysis with R</span>
     authors: Mary C. Tucker, Stacy T. Shaw, Ji Y. Son & James W. Stigler
@@ -151,7 +151,7 @@ papers:
     filename: Eghterafi_2022.pdf
     abstract: In this study, we examined the effect of video-based feedback designed to highlight a peer engaging in effective thinking processes on self-efficacy beliefs and learning outcomes (performance on a delayed quiz). Results indicated that students who watched the mastery videos, but not the coping videos, rated their self-efficacy higher and scored higher on a class quiz taken more than a day after the feedback intervention than students who viewed a worked example. 
    
-  - name: <span style="color:red">"Modeling First: Applying Learning Science to the Teaching of Introductory Statistics"</span>
+  - name: <span style="color:red">Modeling First: Applying Learning Science to the Teaching of Introductory Statistics</span>
     authors: Ji Y. Son, Adam Blake, Laura Fries, James W. Stigler
     journal: Journal of Statistics Education
     year: 2021
