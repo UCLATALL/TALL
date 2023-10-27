@@ -155,7 +155,7 @@ papers:
     authors: Ji Y. Son, Adam Blake, Laura Fries, James W. Stigler
     journal: Journal of Statistics Education
     year: 2021
-    filename: Modeling First:Applying Learning Science to the Teaching of Introductory Statistics.pdf
+    filename: Modeling First.pdf
     abstract: In this article we describe our attempt to apply theories and findings from learning science to the design of a statistics course that aims to help students build a coherent and interconnected representation of the domain. The resulting practicing connections approach provides students with repeated opportunities to practice connections between core concepts (especially the concepts of statistical model, distribution, and randomness), key representations (R programming language and computational techniques such as simulation and bootstrapping), and real-world situations statisticians face as they explore variation, model variation, and evaluate and compare statistical models. We provide a guided tour through our curriculum implemented in an interactive online textbook (CourseKata.org) and then provide some evidence that students who complete the course are able to transfer what they have learned to the learning of new statistical techniques.
 
   - name: <span style="color:red">"Utility Value Trajectories and their Relationship with Behavioral Engagement and Performance in Introductory Statistics"</span>
