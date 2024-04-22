@@ -86,8 +86,20 @@ alumni:
 # the doi field is optional
 # papers should be placed in the pdfs folder 
 papers:
+  - name: <span style="color:red">Watching videos of a drawing hand improves students’ understanding of the normal probability distribution</span>
+    authors: Icy (Yunyi) Zhang, Xiaohan Hanna Guo, Ji Y. Son, Idan A. Blank & James W. Stigler 
+    year: 2024
+    filename: Watching videos of a drawing hand.pdf
+    abstract: Understanding normal probability distributions is a crucial objective in mathematics and statistics education. Drawing upon cognitive psychology research, this study explores the use of drawings and visualizations as effective scaffolds to enhance students' comprehension in a sequence of three studies.
+
+  - name: <span style="color:red">Embodying Similarity and Difference: The Effect ofListing and Contrasting Gestures During U.S. PoliticalSpeech</span>
+    authors: Icy (Yunyi) Zhang, Tina Izad, Erica A. Cartmill
+    year: 2024
+    filename: Embodying Similarity and Difference/ The Effect of Listing and Contrasting Gestures During U.S. Political Speech
+    abstract: Study 1 examined two rhetorical devices—contrasts and lists—used by three politicians during U.S. presidential debates and asked whether the gestures produced during contrasts and lists differ. Gestures produced during contrasts were more likely to involve changes in hand location, and gestures produced during lists were more likely to involve changes in trajectory. Study 2 used footage from the same debates in an experiment to ask whether gesture influenced the way people perceived the politicians’ arguments.
+    
   - name: <span style="color:red">Prediction versus Production for Teaching Computer Programming</span>
-    authors: Mary C. Tucker, Xinran (Wendy) Wang*, Ji Y. Son, & James W. Stigler 
+    authors: Mary C. Tucker, Xinran (Wendy) Wang, Ji Y. Son, & James W. Stigler 
     year: 2024
     filename: predictionversusproduction.pdf
     abstract: "Background: Most students struggle when learning to program. Aims: In this paper we examine two instructional tasks that can be used to introduce programming: tell-and- practice (the typical pedagogical routine of describing some code or function then having students write code to practice what they have learned) and prediction (where students are given code and asked to make predictions about the output before they are told how the code works). Sample: Participants were 121 college students with no coding experience. Methods: Participants were randomly assigned to one of two parallel training tasks: predict, or tell-and-practice. Results: Participants in the predict condition showed greater learning and better non-cognitive outcomes than those in the tell-and-practice condition. Conclusions: These findings raise a number of questions about the relationship between programming tasks and students’ experiences and outcomes in the early stages of learning programming. They also suggest some pedagogical changes to consider, especially in early introductions to programming."
