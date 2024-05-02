@@ -86,6 +86,12 @@ alumni:
 # the doi field is optional
 # papers should be placed in the pdfs folder 
 papers:
+  - name: <span style="color:red">The “Better Book” Approach to Addressing Equity in Statistics &colon; Centering the Motivational Experiences of Students from Racially Marginalized Backgrounds for Widespread Benefit</span>
+    authors: Claudia C. Sutter, Matthew C. Jackson, Karen B. Givvin, James W. Stigler & Ji Y. Son 
+    year: 2024
+    filename: education-14-00487.pdf
+    abstract: Although improving racial equity in critical college courses such as introductory statistics is a laudable goal, making research-based progress toward that aim in a scalable manner remains a chal- lenge. To translate psychological insights to benefit racially marginalized students, we implemented the “Better Book” approach, where instructors, researchers, and developers work together to improve an online textbook used in introductory statistics. The “Better Book” approach to equity assumes that racially marginalized students are a “canary in the coal mine”, alerting us to systemic issues that can affect a broader array of students. We started by finding places in the textbook where racially marginalized students reported higher perceptions of costs (the effort and time required to learn the content) than non-marginalized students. Then we drew upon suggestions from users to redesign the textbook where gaps in cost perceptions peaked. We then analyzed data from both the original and redesigned versions of the textbook to evaluate the impact on students who were subsequently enrolled in the course. Results showed that perceptions of cost were dramatically reduced in the experience of racially marginalized students but also the redesign resulted in an improved experience for all students.
+
   - name: <span style="color:red">Watching videos of a drawing hand improves students’ understanding of the normal probability distribution</span>
     authors: Icy (Yunyi) Zhang, Xiaohan Hanna Guo, Ji Y. Son, Idan A. Blank & James W. Stigler 
     year: 2024
