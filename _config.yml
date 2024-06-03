@@ -30,6 +30,16 @@ members:
     email: adamblake@ucla.edu
     intro: Adam Blake is a Project Scientist at UCLA. He is interested in the factors that influence students' judgments, decisions, and strategies related to learning, and how instruction and learning materials can improve these behaviors. 
 
+  - name: Claudia Sutter
+    pic: Claudia.jpg
+    email: claudia@coursekata.org
+    intro: Claudia C. Sutter is a project scientist at UCLA and visiting scholar at UVA. She is interested in understanding (a) what drives students to learn and engage within the educational setting, (b) how students’ motivation (e.g., their beliefs and values) affects their learning behaviors and outcomes, and (c) how educational environments (instruction, learning materials) shape students’ opportunities to reach their full potential.
+  
+  - name: Caylor Davis
+    pic: Caylor.jpg
+    email: crdavis25@ucla.edu
+    intro: Caylor Davis is a researcher and curriculum developer for high school and college statistics courses. She is interested in research and course design that makes math more accessible for non-STEM students. </br> </br>
+
   - name: Laura Fries
     pic: Laura.jpg
     email: lauracfries@gmail.com
@@ -40,11 +50,6 @@ members:
     email: yunyi9847@g.ucla.edu
     intro: Icy Zhang is a graduate student in Developmental Psychology at UCLA. She is interested in the role of embodied learning in supporting students’ understanding of difficult content such as statistics and applying these theory-based interventions to real classrooms
   
-  - name: Caylor Davis
-    pic: Caylor.jpg
-    email: crdavis25@ucla.edu
-    intro: Caylor Davis is a researcher and curriculum developer for high school and college statistics courses. She is interested in research and course design that makes math more accessible for non-STEM students. </br> </br>
-
   - name: Alice Xu
     pic: Alice.jpg   
     email: alicex@g.ucla.edu
@@ -55,11 +60,6 @@ members:
     email: bwinjum@ucla.edu
     intro: Ben Winjum is a staff member in the High Performance Computing group of UCLA’s Institute for Digital Research and Education, where he works on advanced computing and data analytics projects that support both education and research. </br> </br>
 
-  - name: Claudia Sutter
-    pic: Claudia.jpg
-    email: claudia@coursekata.org
-    intro: Claudia C. Sutter is a project scientist at UCLA and visiting scholar at UVA. She is interested in understanding (a) what drives students to learn and engage within the educational setting, (b) how students’ motivation (e.g., their beliefs and values) affects their learning behaviors and outcomes, and (c) how educational environments (instruction, learning materials) shape students’ opportunities to reach their full potential.
-  
   - name: Asia Mullins
     pic: Asia.jpg
     email:
@@ -86,6 +86,12 @@ alumni:
 # the doi field is optional
 # papers should be placed in the pdfs folder 
 papers:
+  - name: <span style="color:red">Memorization and Performance During Pandemic Remote Instruction - Evidence of Shifts from an Interactive Textbook</span>
+    authors: Jose L. Salas, Xinran (Wendy) Wang, Mary C. Tucker, & Ji. Y. Son
+    year: 2024
+    filename: Memorization-and-Performance.pdf
+    abstract: Students believe mathematics is best learned by memorization; however, endorsing memorization as a study strategy is associated with a decrease in learning (Schoenfeld, 1989). When the world changed with the onset of the COVID-19 global pandemic, instruction transitioned to fully remote instruction where many assignments and examinations became open textbook, open note, and even open Internet. In this new world, did students change their beliefs about the role of memorization in learning? Did academic performance change? And did the relationship between memorization beliefs and academic performance change? The current study takes advantage of data collected in an online interactive statistics textbook used by courses before (in-person) and after (remote) the declaration of the COVID-19 pandemic at three institutions, each representing a part of the California Master Plan for Higher Education (e.g., University of California, California State University, and California Community Colleges). Results from 2668 students who used the textbook showed that the UC institution had lower memorization belief scores compared to both the CSU and CCC institutions. Even when controlling for institution and chapter of the textbook, lower memorization belief scores were related to higher performance. Surprisingly, there were no significant differences in either memorization beliefs nor performance before and after transitioning to online remote instruction due to the pandemic. Although much of educational research is conducted in one institution, this kind of research can identify differences across institutional contexts to understand how learning can be affected by different teaching formats, including in-person and online/distance, brought on by disruptive social changes such as a global pandemic.
+
   - name: <span style="color:red">The “Better Book” Approach to Addressing Equity in Statistics &colon; Centering the Motivational Experiences of Students from Racially Marginalized Backgrounds for Widespread Benefit</span>
     authors: Claudia C. Sutter, Matthew C. Jackson, Karen B. Givvin, James W. Stigler & Ji Y. Son 
     year: 2024
