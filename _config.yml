@@ -40,11 +40,6 @@ members:
     email: crdavis25@ucla.edu
     intro: Caylor Davis is the director of implementation. She is interested in research and course design that makes math more accessible for non-STEM students. </br> </br>
 
-  - name: Laura Fries
-    pic: Laura.jpg
-    email: lauracfries@gmail.com
-    intro: Laura Fries is a project scientist at UCLA. She is interested in the cognitive and affective factors that influence learning, and instructional strategies to promote transferable understanding and retention of complex domains. 
- 
   - name: Icy (Yunyi) Zhang
     pic: Icy.jpg
     email: yunyi9847@g.ucla.edu
@@ -64,6 +59,12 @@ members:
     pic: Asia.jpg
     email:
     intro: Asia Mullins is a graduate student at Cal State LA. She is interested in developing learning techniques that enhance student comprehension of data visualizations, as well as encourage student enthusiasm for statistics.
+
+  - name: Laura Fries
+    pic: Laura.jpg
+    email: lauracfries@gmail.com
+    intro: Laura Fries is a project scientist at UCLA. She is interested in the cognitive and affective factors that influence learning, and instructional strategies to promote transferable understanding and retention of complex domains. 
+ 
     
 #Alumni
 alumni:
