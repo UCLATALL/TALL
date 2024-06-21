@@ -40,25 +40,25 @@ members:
     email: crdavis25@ucla.edu
     intro: Caylor Davis is CourseKata's director of implementation. She is interested in research and course design that makes math more accessible for non-STEM students. </br> </br>
 
-  - name: Icy (Yunyi) Zhang
-    pic: Icy.jpg
-    email: yunyi9847@g.ucla.edu
-    intro: Icy Zhang is a graduate student in Developmental Psychology at UCLA. She is interested in the role of embodied learning in supporting students’ understanding of difficult content such as statistics and applying these theory-based interventions to real classrooms
-  
   - name: Alice Xu
     pic: Alice.jpg   
     email: alicex@g.ucla.edu
     intro: Alice Xu is a graduate student in Developmental Psychology at UCLA. She is interested in individual differences during learning, STEM learning in the college population, and children's cognitive and language development. 
- 
-  - name: Ben Winjum
-    pic: Ben.jpg
-    email: bwinjum@ucla.edu
-    intro: Ben Winjum is a staff member in the High Performance Computing group of UCLA’s Institute for Digital Research and Education, where he works on advanced computing and data analytics projects that support both education and research. </br> </br>
 
   - name: Asia Mullins
     pic: Asia.jpg
     email:
     intro: Asia Mullins is a graduate student at Cal State LA. She is interested in developing learning techniques that enhance student comprehension of data visualizations, as well as encourage student enthusiasm for statistics.
+ 
+  - name: Icy (Yunyi) Zhang
+    pic: Icy.jpg
+    email: yunyi9847@g.ucla.edu
+    intro: Icy Zhang is a graduate student in Developmental Psychology at UCLA. She is interested in the role of embodied learning in supporting students’ understanding of difficult content such as statistics and applying these theory-based interventions to real classrooms
+  
+  - name: Ben Winjum
+    pic: Ben.jpg
+    email: bwinjum@ucla.edu
+    intro: Ben Winjum is a staff member in the High Performance Computing group of UCLA’s Institute for Digital Research and Education, where he works on advanced computing and data analytics projects that support both education and research. </br> </br>
 
  
     
