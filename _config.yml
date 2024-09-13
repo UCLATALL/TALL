@@ -66,15 +66,15 @@ alumni:
     email: yunyi9847@g.ucla.edu
     intro: Icy Zhang graduated from UCLA in 2024 and is now an Assistant Professor at the University of Wisconsin-Madison. She is interested in the role of embodied learning in supporting students’ understanding of difficult content (e.g., statistics) and applying these theory-based interventions to real classrooms.
   
-  - name: Stacy Shaw
-    pic: Stacy.jpg
-    email: stacy.tamsen.shaw@gmail.com
-    intro: Stacy Shaw graduated from UCLA in 2020 and is now an Assistant Professor at Worcester Polytechnic Institute in the areas of Learning Science and Technology and Psychological and Cognitive Science. Her research focuses on learning in mathematics and statistics with a focus on flexible thinking and creativity. 
-
   - name: Mary Tucker
     pic: Mary.jpg
     email: maryctucker@ucla.edu
     intro: Mary Tucker graduated from UCLA in 2022. Her research interests include the psychological and contextual factors that influence teaching and learning, the design of learning environments in STEM domains, and the application of technology and data analytics to understand and improve teaching and learning.
+
+  - name: Stacy Shaw
+    pic: Stacy.jpg
+    email: stacy.tamsen.shaw@gmail.com
+    intro: Stacy Shaw graduated from UCLA in 2020 and is now an Assistant Professor at Worcester Polytechnic Institute in the areas of Learning Science and Technology and Psychological and Cognitive Science. Her research focuses on learning in mathematics and statistics with a focus on flexible thinking and creativity. 
 
   - name: Laura Fries
     pic: Laura.jpg
