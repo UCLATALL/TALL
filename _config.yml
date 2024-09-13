@@ -46,7 +46,7 @@ members:
     intro: Alice Xu is a graduate student in Developmental Psychology at UCLA. She is interested in individual differences during learning, STEM learning in the college population, and children's cognitive and language development. 
 
   - name: Mariela Rivas
-    pic: Mariela.jpg   
+    pic: Mariela.png
     email: mariela@coursekata.org
     intro: Mariela Rivas is a curriculum specialist. She teaches statistics to social sciences students at the undergraduate and graduate level. She is passionate about finding ways of making teaching and learning statistics more fun. 
 
@@ -71,11 +71,6 @@ alumni:
     email: stacy.tamsen.shaw@gmail.com
     intro: Stacy Shaw graduated from UCLA in 2020 and is now an Assistant Professor at Worcester Polytechnic Institute in the areas of Learning Science and Technology and Psychological and Cognitive Science. Her research focuses on learning in mathematics and statistics with a focus on flexible thinking and creativity. 
   
-  - name: Asia Mullins
-    pic: Asia.jpg
-    email:
-    intro: Asia Mullins is a graduate student at Cal State LA. She is interested in developing learning techniques that enhance student comprehension of data visualizations, as well as encourage student enthusiasm for statistics.
- 
   - name: Emma Geller
     pic: Emma.jpg
     email: egeller@ucsd.edu
@@ -90,6 +85,11 @@ alumni:
     pic: Laura.jpg
     email: lauracfries@gmail.com
     intro: Laura Fries is a project scientist at UCLA. She is interested in the cognitive and affective factors that influence learning, and instructional strategies to promote transferable understanding and retention of complex domains. 
+ 
+  - name: Asia Mullins
+    pic: Asia.jpg
+    email:
+    intro: Asia Mullins is a graduate student at Cal State LA. She is interested in developing learning techniques that enhance student comprehension of data visualizations, as well as encourage student enthusiasm for statistics.
  
  
 # Papers in publication
