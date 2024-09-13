@@ -46,7 +46,7 @@ members:
     intro: Alice Xu is a graduate student in Developmental Psychology at UCLA. She is interested in individual differences during learning, STEM learning in the college population, and children's cognitive and language development. 
 
   - name: Mariela Rivas
-    pic: Mariela.png
+    pic: Mariela.jpg
     email: mariela@coursekata.org
     intro: Mariela Rivas is a curriculum specialist. She teaches statistics to social sciences students at the undergraduate and graduate level. She is passionate about finding ways of making teaching and learning statistics more fun. 
 
@@ -70,11 +70,6 @@ alumni:
     pic: Stacy.jpg
     email: stacy.tamsen.shaw@gmail.com
     intro: Stacy Shaw graduated from UCLA in 2020 and is now an Assistant Professor at Worcester Polytechnic Institute in the areas of Learning Science and Technology and Psychological and Cognitive Science. Her research focuses on learning in mathematics and statistics with a focus on flexible thinking and creativity. 
-  
-  - name: Emma Geller
-    pic: Emma.jpg
-    email: egeller@ucsd.edu
-    intro: Emma Geller is an assistant teaching professor at UC San Diego. She is interested in applications of cognitive psychology to support deep learning and understanding in multimedia environments, especially regarding the design of online video learning.
 
   - name: Mary Tucker
     pic: Mary.jpg
@@ -86,6 +81,11 @@ alumni:
     email: lauracfries@gmail.com
     intro: Laura Fries is a project scientist at UCLA. She is interested in the cognitive and affective factors that influence learning, and instructional strategies to promote transferable understanding and retention of complex domains. 
  
+  - name: Emma Geller
+    pic: Emma.jpg
+    email: egeller@ucsd.edu
+    intro: Emma Geller is an assistant teaching professor at UC San Diego. She is interested in applications of cognitive psychology to support deep learning and understanding in multimedia environments, especially regarding the design of online video learning.
+
   - name: Asia Mullins
     pic: Asia.jpg
     email:
