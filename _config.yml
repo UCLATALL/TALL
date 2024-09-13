@@ -45,16 +45,12 @@ members:
     email: alicex@g.ucla.edu
     intro: Alice Xu is a graduate student in Developmental Psychology at UCLA. She is interested in individual differences during learning, STEM learning in the college population, and children's cognitive and language development. 
 
-  - name: Asia Mullins
-    pic: Asia.jpg
-    email:
-    intro: Asia Mullins is a graduate student at Cal State LA. She is interested in developing learning techniques that enhance student comprehension of data visualizations, as well as encourage student enthusiasm for statistics.
+  - name: Mariela Rivas
+    pic: Mariela.jpg   
+    email: mariela@coursekata.org
+    intro: Mariela Rivas is a curriculum specialist. She teaches statistics to social sciences students at the undergraduate and graduate level. She is passionate about finding ways of making teaching and learning statistics more fun. 
+
  
-  - name: Icy (Yunyi) Zhang
-    pic: Icy.jpg
-    email: yunyi9847@g.ucla.edu
-    intro: Icy Zhang is a graduate student in Developmental Psychology at UCLA. She is interested in the role of embodied learning in supporting students’ understanding of difficult content (e.g., statistics) and applying these theory-based interventions to real classrooms.
-  
   - name: Ben Winjum
     pic: Ben.jpg
     email: bwinjum@ucla.edu
@@ -64,11 +60,22 @@ members:
     
 #Alumni
 alumni:
+
+  - name: Icy (Yunyi) Zhang
+    pic: Icy.jpg
+    email: yunyi9847@g.ucla.edu
+    intro: Icy Zhang graduated from UCLA in 2024 and is now an Assistant Professor at the University of Wisconsin-Madison. She is interested in the role of embodied learning in supporting students’ understanding of difficult content (e.g., statistics) and applying these theory-based interventions to real classrooms.
+  
   - name: Stacy Shaw
     pic: Stacy.jpg
     email: stacy.tamsen.shaw@gmail.com
     intro: Stacy Shaw graduated from UCLA in 2020 and is now an Assistant Professor at Worcester Polytechnic Institute in the areas of Learning Science and Technology and Psychological and Cognitive Science. Her research focuses on learning in mathematics and statistics with a focus on flexible thinking and creativity. 
   
+  - name: Asia Mullins
+    pic: Asia.jpg
+    email:
+    intro: Asia Mullins is a graduate student at Cal State LA. She is interested in developing learning techniques that enhance student comprehension of data visualizations, as well as encourage student enthusiasm for statistics.
+ 
   - name: Emma Geller
     pic: Emma.jpg
     email: egeller@ucsd.edu
