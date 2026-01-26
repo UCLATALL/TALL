@@ -101,14 +101,14 @@ papers:
   - name: <span style="color:red">Individual and situational expectancy, value, and cost motivational beliefs at Hispanic-Serving Institutions.</span>
     authors: Claudia C. Sutter, Delaram A. Totonchi, Jamie DeCoster, Chris S. Hulleman, & Kenneth E. Barron
     year: 2026
-    #filename: sutter-et-al.-2025.pdf
+    filename: sutter-et-al.-2025.pdf
     abstract: Following growing calls to investigate the situational nature of motivation across diverse institutional contexts and student populations, this study examined fluctuations in students’ motivational beliefs–expectancy, value, and costs–across multiple time points in an introductory statistics course. We aimed to replicate and extend prior work conducted at predominantly White/Asian institutions by exploring whether dynamic patterns of motivation generalize to Hispanic-Serving Institutions (HSIs), addressing the need for more inclusive research on situational motivation. The sample consisted of 439 students enrolled in an introductory statistics and data science course at several HSIs. Using an intensive longitudinal design, we measured students’ motivational beliefs at multiple time points. We analyzed overall trajectories, within- and between-student variability, associations with course performance, and the moderating role of demographic factors. Consistent with past research, we found substantial within-student variability in motivational beliefs across expectancy, value, and cost. However, associations between motivation and performance, as well as demographic moderators, differed from those observed in prior studies conducted at predominantly White/Asian institutions.Findings highlight the importance of examining motivation as a dynamic, context-dependent process. Results highlight the need for further research into how situational and contextual factors shape motivation and academic outcomes across diverse student populations and institutional settings.
   
   - name: <span style="color:red">CourseKata’s experience as a DataFest Donor.</span>
     authors: Ji Y. Son, Claudia C. Sutter, James W. Stigler
     year: 2025
-    #filename: Zhang-Preprint.pdf
-    abstract: https://magazine.amstat.org/blog/2025/09/02/donorperspective/
+    filename: amstat.pdf
+    abstract: Who provides the data behind student projects—and what do they gain in return? In the following piece, CourseKata shares their motivations and takeaways as a DataFest Donor.
    
   - name: <span style="color:red">The Role of Prior Knowledge in Effects of Embodied Pedagogies on Learning</span>
     authors: Icy Zhang, Alice Xu, Craig Enders, Ji Y. Son, & James W. Stigler
