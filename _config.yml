@@ -110,11 +110,18 @@ papers:
     filename: amstat.pdf
     abstract: Who provides the data behind student projects—and what do they gain in return? In the following piece, CourseKata shares their motivations and takeaways as a DataFest Donor.
 
-   - name: <span style="color:red">Community college math policy – Balancing big picture gains and classroom struggle</span>
+  - name: <span style="color:red">What AI Can Teach Us About Effective Professional Learning</span>
+    authors: Ji Y. Son & James W. Stigler
+    year: 2025
+    filename: ca-learning-lab.pdf
+    abstract: Guest commentary by Drs Ji Y. Son & James W. Stigler.
+  
+  - name: <span style="color:red">Community college math policy. Balancing big picture gains and classroom struggle</span>
     authors: Ji Y. Son & Federick Ngo
     year: 2025
     filename: EdSource.pdf
     abstract: The piece argues that California’s community college math reform, AB 705, illustrates a global vs. local paradox. From afar, the policy looks successful—far more students reach and pass transfer-level math. Up close, it feels painful—more students are also failing, which faculty experience directly and emotionally. AB 705 dismantled remedial “dead ends” and expanded access, boosting overall completion, but it also changed classroom dynamics in ways that feel inequitable and overwhelming to instructors. The takeaway is that the reform worked in aggregate, but at real human cost, and lasting success requires pairing data with empathy, communication, and support—especially as newer, stricter reforms (AB 1705) roll out.
+
 
   - name: <span style="color:red">The Role of Prior Knowledge in Effects of Embodied Pedagogies on Learning</span>
     authors: Icy Zhang, Alice Xu, Craig Enders, Ji Y. Son, & James W. Stigler
