@@ -51,10 +51,10 @@ members:
     intro: Mariela Rivas is a curriculum specialist. She teaches statistics to social sciences students at the undergraduate and graduate level. She is passionate about finding ways of making teaching and learning statistics more fun. 
 
  
-  - name: Ben Winjum
-    pic: Ben.jpg
-    email: bwinjum@ucla.edu
-    intro: Ben Winjum is a staff member in the High Performance Computing group of UCLA’s Institute for Digital Research and Education, where he works on advanced computing and data analytics projects that support both education and research. </br> </br>
+  - name: Aleksandra Kaplon-Schilis
+    pic: Aleks.jpg
+    email: aleks@coursekata.org
+    intro: Aleks Kaplon-Schilis is CourseKata's Community Manager at. She supports teachers and college instructors across the country through curriculum implementation, community building, and professional development. </br> </br>
 
  
     
@@ -101,7 +101,8 @@ papers:
   - name: <span style="color:red">Individual and situational expectancy, value, and cost motivational beliefs at Hispanic-Serving Institutions.</span>
     authors: Claudia C. Sutter, Delaram A. Totonchi, Jamie DeCoster, Chris S. Hulleman, & Kenneth E. Barron
     year: 2026
-    filename: sutter-et-al.-2025.pdf
+    access link: https://www.tandfonline.com/doi/full/10.1080/26939169.2026.2635599 
+    # filename: sutter-et-al.-2025.pdf
     abstract: Following growing calls to investigate the situational nature of motivation across diverse institutional contexts and student populations, this study examined fluctuations in students’ motivational beliefs–expectancy, value, and costs–across multiple time points in an introductory statistics course. We aimed to replicate and extend prior work conducted at predominantly White/Asian institutions by exploring whether dynamic patterns of motivation generalize to Hispanic-Serving Institutions (HSIs), addressing the need for more inclusive research on situational motivation. The sample consisted of 439 students enrolled in an introductory statistics and data science course at several HSIs. Using an intensive longitudinal design, we measured students’ motivational beliefs at multiple time points. We analyzed overall trajectories, within- and between-student variability, associations with course performance, and the moderating role of demographic factors. Consistent with past research, we found substantial within-student variability in motivational beliefs across expectancy, value, and cost. However, associations between motivation and performance, as well as demographic moderators, differed from those observed in prior studies conducted at predominantly White/Asian institutions.Findings highlight the importance of examining motivation as a dynamic, context-dependent process. Results highlight the need for further research into how situational and contextual factors shape motivation and academic outcomes across diverse student populations and institutional settings.
   
   - name: <span style="color:red">CourseKata’s experience as a DataFest Donor.</span>
@@ -110,11 +111,18 @@ papers:
     filename: amstat.pdf
     abstract: Who provides the data behind student projects—and what do they gain in return? In the following piece, CourseKata shares their motivations and takeaways as a DataFest Donor.
 
-   - name: <span style="color:red">Community college math policy – Balancing big picture gains and classroom struggle</span>
+  - name: <span style="color:red">What AI Can Teach Us About Effective Professional Learning</span>
+    authors: Ji Y. Son & James W. Stigler
+    year: 2025
+    filename: ca-learning-lab.pdf
+    abstract: Guest commentary by Drs Ji Y. Son & James W. Stigler.
+  
+  - name: <span style="color:red">Community college math policy. Balancing big picture gains and classroom struggle</span>
     authors: Ji Y. Son & Federick Ngo
     year: 2025
     filename: EdSource.pdf
     abstract: The piece argues that California’s community college math reform, AB 705, illustrates a global vs. local paradox. From afar, the policy looks successful—far more students reach and pass transfer-level math. Up close, it feels painful—more students are also failing, which faculty experience directly and emotionally. AB 705 dismantled remedial “dead ends” and expanded access, boosting overall completion, but it also changed classroom dynamics in ways that feel inequitable and overwhelming to instructors. The takeaway is that the reform worked in aggregate, but at real human cost, and lasting success requires pairing data with empathy, communication, and support—especially as newer, stricter reforms (AB 1705) roll out.
+
 
   - name: <span style="color:red">The Role of Prior Knowledge in Effects of Embodied Pedagogies on Learning</span>
     authors: Icy Zhang, Alice Xu, Craig Enders, Ji Y. Son, & James W. Stigler
